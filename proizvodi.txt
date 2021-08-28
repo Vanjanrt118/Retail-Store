@@ -1,0 +1,49 @@
+Takovo jagoda 1l,3476734544617,134.0,negazirani sok,17
+Takovo visnja 1l,3476734544611,134.0,negazirani sok,10
+Takovo jabuka 1l,3476734544612,134.0,negazirani sok,25
+Takovo vocni mix 1l,3476734544613,134.0,negazirani sok,20
+Coca cola 1.5l,4545464792567,99.0,Gazirani sok,38
+Coca cola zero 1.5l,4545464792568,99.0,Gazirani sok,24
+Coca cola 2l,4545464792588,129.0,Gazirani sok,17
+Coca cola zero 2l,4545464792589,129.0,Gazirani sok,14
+Coca cola 1l,4545222958031,89.0,Gazirani sok,48
+Coca cola zero 1l,4545222958032,89.0,Gazirani sok,34
+Coca cola 0.5l,4545464792501,99.0,Gazirani sok,160
+Coca cola zero 0.5l,4545464792502,99.0,Gazirani sok,84
+Voda voda 5l,8743547289441,199.0,Voda,25
+Voda aquaviva 0.5l,7218426174211,49.0,Voda,218
+Crno vino Rubin 1l,3615328737541,166.0,alkohol,26
+Belo vino Rubin 1l,3615328737542,179.0,alkohol,18
+Rose vino Rubin 1l,3615328737551,166.0,alkohol,9
+Crno vino Vranac 1l,3615328737543,349.0,alkohol,31
+Crno vino Zdrepceva krv 1l,3615328737544,269.0,alkohol,22
+Belo vino Radovanovic 1l,3615328737545,1769.0,alkohol,14
+Crno vino Radovanovic 1l,3615328737546,1769.0,alkohol,17
+Voda aquaviva 1.5l,7218426174212,69.0,Voda,161
+Voda aquaviva 5l,7218426174213,109.0,Voda,45
+Voda rosa 0.5l,7215216362171,44.0,Voda,131
+Voda rosa 1.5l,7215216362172,59.0,Voda,93
+Voda rosa 5l,7215216362173,119.0,Voda,31
+Vinjak 0.7,4523412341869,399.0,alkohol,14
+Pivo Nektar 0.5 limenka,8762381452712,68.0,alkohol,52
+Pivo Nektar 0.3 flasa,8762381452713,64.0,alkohol,109
+Pivo Nektar 0.5 flasa,8762381452714,74.0,alkohol,86
+Pivo Jelen 0.5 limenka,7362918523123,74.0,alkohol,26
+Pivo Jelen 0.5 flasa,7362918523124,84.0,alkohol,46
+Pivo Lav 0.5 limenka,7369892183269,79.0,alkohol,18
+Pivo Lav 0.5 flasa,7369892183269,89.0,alkohol,14
+Pivo Amstel 0.5 flasa,3429873748281,109.0,alkohol,22
+Pivo Tuborg 0.3 flasa,7628193629184,99.0,alkohol,72
+Pivo Tuborg 0.5 flasa,7628193629185,129.0,alkohol,47
+Pivo Bavaria 0.3 flasa,5471837218317,89.0,alkohol,63
+Pivo Zajecarsko 0.5 limenka,7362961728138,54.0,alkohol,54
+Pivo Zajecarsko 0.5 flasa,7362961728139,62.0,alkohol,82
+Pivo Heineken 0.3 flasa,7217382847211,99.0,alkohol,45
+Pivo Heineken 0.5 flasa,7217382847212,119.0,alkohol,52
+Gin lordson 0.8,6721452164271,591.0,alkohol,29
+Liker KAHLUA 0.7l,6721452164272,1649.0,alkohol,15
+Liker JAGERMEISTER 0.7l,67214521623421,2249.0,alkohol,24
+Liker MARIE BRIZARD Blue Curacao 0.7l,67214521623429,1449.0,alkohol,7
+Gazirana voda KNJAZ MILOŠ 0.5l,6721452162223,29.0,Voda,57
+Gazirana voda KNJAZ MILOŠ 1l,6721452162224,34.0,Voda,29
+sok,4t65y727,56.0,Negazirani sok,45
